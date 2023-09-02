@@ -1,10 +1,10 @@
 ---
 title: Vim Commands I've Already Forgotten (Recipes)
 tags:
-  - sappling
   - programming
   - vim
   - productivity
+  - sapling
 drafts:
 ---
 *This should not be treated as a comprehensive list of vim commands. Indeed it only scratches the surface and it's almost certainly only really useful for me (as these are the commands I frequently forget).*
