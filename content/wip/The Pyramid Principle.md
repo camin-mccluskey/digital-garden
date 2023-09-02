@@ -1,0 +1,69 @@
+- **Metadata**
+- [[Entrepreneur First]] [[Tom Shinner]]
+- Summary: Talk given by EF COO as part of EF LD16. The Pyramid Principle simply urges you to start comms with a punchline and rigorously justify each point.
+
+
+- Why Communication Matters
+    - Communication is a skill
+        - You ablity to communicate is visible to everyone, everyday
+        - As a founder in a remote world, this matters more than ever
+        - Cofounders, Customers, Investors - these 3 groups will need to listen, understand and be convinced
+    - People naturally tend to communicate in a way that doesn't help (inverted pyramid)
+        - {{[[drawing]]}}
+        - Detail > Clarifications > Conclusion (punchline)
+        - This puts a really high cognitive load on people listening. The audience doesn't know what to focus on when you're talking.
+- The Pyramid Principle
+    - A framework for structured communication
+        - Your listener wants to understand
+            - What you're doing
+            - Why they should listen
+            - What you want from them
+        - ...as quickly as possible
+            - "Is this worth my time"
+            - "When will they get to the point"
+        - ...and direct the conversation where they see fit
+            - "Once I understand, I'll know what questions to ask"
+    - The Principle
+        - {{[[drawing]]}}
+        - 1) A clear statement - the puncline
+        - 2) Arguments - The justifications for the punchline
+            - MECE: Mutually exclusive, Collectively Exhaustive
+        - 3) Evidence
+            - Time is always scarce, let your audience "self serve" to guide you to the parts of the pyramid they're interested in
+    - Using the pyramid principle is an EF norm. Use it for:
+        - IC Prep
+        - VP checkins
+        - Investor meetings 
+    - Structuring
+        - You can structure the pyramind like a memo
+            - Headline (punchline)
+                - Sub headline (argument)
+                    - Evidence
+                    - Evidence
+                - Sub headline
+                    - Evidence
+                - Sub headline 
+                    - Evidence
+                    - Evidence
+                    - Evidence
+    - Tips and Pitfalls
+        - Strong foundations
+            - Does each row support the claim above it? Check for holes. IFTT
+        - Minimal Viable Detail - "MVD"
+            - Do you have spurious detail? Focus on what's important
+        - Be Precise
+            - Does the logic follow? Is the claim contensable? Will your audience interpret it to mean the same as you?
+            - "The market is large" - to who?? State the number, at least now we can have a debate.
+        - Test your logic: top, down; bottom, up
+- Activity: Put it into practice
+    - Punchline: "You should buy shares in Tesla"
+        - What is the market doing - supply side, market undervalues Tesla
+            - Battery minerals are getting cheaper
+            - EU regulation is pushing Electric vehicles - UK, California
+        - What are consumers doing - focus on consumer demand
+            - 78% of millennials are interested in getting an EV at some point
+            - Tesla is the preeminent EV brand
+        - What are Tesla themselves doing
+            - Data advantage in FSD
+            - Superior R&D
+            - Tesla have an advantage infrastructure

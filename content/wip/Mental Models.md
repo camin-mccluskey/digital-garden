@@ -1,0 +1,194 @@
+- **Metadata**
+- [[Writing/Digital-Garden-Content/wip/Ideas]]
+- Summary: Mental models I have come across that may be useful to view an area at a certain level of abstraction
+
+
+- What if we did nothing
+    - Ask yourself what would happen if you did nothing. This establishes a baseline. 
+    - You can quantify an opportunity cost for that action.
+    - You can ask, will that time be well spent
+    - This can be applied by thinking forward:
+        - "If we dont engage in marketing our user growth is 5%/week"
+    - Or reasoning back:
+        - "We spent all that time making this new feature and our user growth is now 7%/week. Would our time have been better spent elsewhere?"
+    - Ideally reason forward with the data you have. 
+    - Applied to management:
+        - When you ask someone to do something, be sure that their output will be used. There is nothing more demoralising that someone working hard on something that is never used. There are only so many times you can pull this card before all motivation is lost. 
+- Inversion
+    - Avoiding stupidity is easier than trying to be brilliant
+    - Instead of asking "what are the things I can do to make this better?" ask "what are the things that aren't going well, how can I fix those?"
+        - E.g. From "how can I help the company?" to "this is harming the company, here is how we stop it"
+    - Possibly related - think about the worst possible action, then think what is the absolute opposite of that
+        - E.g. "how can we sell less flights", "how can we make sure users hate our app" - let's do the complete opposite of that
+- [[Theory of Constraints (TOC)]]
+    - A system is only as strong as its weakest point
+    - Counterintuitvely if you break down an entire system and optimise the parts - you'll lower the effectiveness of the system
+    - Optimize the entire system instead
+- Preference Falsification
+    - People lie about their true opinions to conform to social norms 
+    - Shy torys 
+- Faustian Bargin
+    - Where people overvalue short term rewards at the expense of long term rewards.
+- Mimetic Theory of Desire
+    - Human imitate each other
+    - Instead of creating our own desires we desire what others think we should desire
+    - Link - People think marketing is purely emotional but its actually rather rationale when viewed through this lense
+        - People want to be seen to desire the "right" things by others
+        - Superbowl ad spot - $$$/viewer
+        -  Regular ad spot - $/viewer
+        - Why do superbowl ads cost so much more per eyeball - you could reach the same number of people with lots of the regular ad. 
+        - Ans: By advertising on the superbowl you can be confident the people watch will **know other people are watching** 
+        - They can signal their preferences much more easily, there is a common cultural language
+- Talent vs. Genius
+    - [[Quotes]] - "Talent hits a target nobody else can hit, genius hits a target no one else can see"
+    - Society is good at training talent but terrible at cultivating genius
+- Competition is for Losers
+    - [[Peter Thiel]] said it best. Dont compete 
+    - Stop copying what everyone else is doing 
+    - Fix the unpopular, unsexy problems 
+    - Life is easier when you don't compete 
+- Secrets are hidden in plain sight 
+    - People assume secrets must be hidden, otherwise they'd be common knowledge
+    - The best ideas can come from things that are so well-known that they aren't well seen
+- The never-ending now
+    - The modern era is a never ending stream of content
+    - Learn from the past, plan for the future 
+    - View tenses as distinct entities 
+- Demand curves slope downward
+    - Econ101
+    - If it were easier everyone would be doing it
+- Look for things that dont make sense
+    - When things don't make sense it's a learning opportunity 
+    - Big opportunity won't make sense until it's too late to profit from them
+- Opportunity cost
+    - Always consider the OC of what you're doing
+    - Nothing is free and OC should always be priced in
+- Overton Window
+    - The window of acceptance thought 
+- Bike-Shed Effect
+    - A group working on a project will always argue on always fight over the most trivial details
+- [[Table Selection]]
+    - From [[Poker]] play the games where you have a better chance of winning for the same skill/luck
+- Goodhart's Law
+    - When a measure becomes a target it cases to be a good measure
+    - Rumba's drive backwards to avoid obstacles
+- Gall's Law
+    - A complex system that works is invariably found to have evolved from a simple system that worked. 
+    - A complex system designed from stretch never works and cannot be patched to work
+- Hock Principal
+    - Simple clear purpose and principals gives rise to complex and intelligent behaviour
+    - The inverse is also true
+- Parkinson's Law
+    - Work expands to fill all the available time. People dont want to look lazy so they find extra tasks to tackle even if they are trival. 
+    - Set deadlines accordingly 
+- Second Law of Thermodynamics
+    - The world tends towards disorder 
+    - Your room gets messier as the week goes on
+    - Time moves toward increasing entropy
+- [[The Paradox of Specificity]]
+    - Focus isnt as constraining as it seems
+    - The more specific your goal the more opportunities you'll create for yourself
+    - [ ] How does this actually manifest itself?
+- Emergence
+    - When things interact they ofren birth new, unpredicable forms
+    - The sum total of a system is more than its component parts
+- Occam's Razor
+    - Among competitng and equally good theories favour the one with the fewest assumptions 
+- Hickham's Dictum
+    - Almost the opposite of Occam's Razor
+    - For complex problems there are almost always more than one cause
+    - In medicine people can have many diseases at the same time
+- Hormesis
+    - A low dose of something can have the opposite effect of a high dose
+    - A little bit of stress focuses you, a lot of stress can destroy you
+- Robustness Principal
+    - Be conservative in what you do, but be liberal in what you accept from others 
+    - This is a good principal for [[Code]] also 
+        - Be liberal in what you accept and conservative in what you expose
+- Legibility
+    - We are blind to what we cannot measure
+    - Not everything that counts can be measured and not everything that can be measured counts 
+- [[Horseshoe Theory]]
+    - Extreme opposites tend to look the same
+    - Particularly true in polictics 
+    - [ ] Are there other fields where this is true?
+    - People on both sides are more similar to each other than they are to people in the center
+- Availability Cascade
+    - A self reinforcing cycles that creates collective beliefs 
+    - An idea gains traction when it hits the mainstream
+    - It gains traction not because it's true or false, but because it is popular
+- Creativity begins at the edge
+    - Change starts away from the spotlight. Then it moves toward the center
+- [[The Copernican Principle]]
+    - The more we learn about astronomy, the less it seems the earth is special
+    - [ ] Research the evidence that the cosmic background radiation suggest we may be at the center of the universe
+- Personal Monopoly
+    - The world rewards those who do what no one else can do
+    - [[Long Term Aspirations]] - think about how I can create this personal monopoly while staying true to my long term goals
+- The Paradox of Consensus
+    - Under ancient Jewish law, if a suspect was found guilty by every judge they were deemed innocent. 
+    - Too much agreement impleies as systematic error 
+    - Unanimous agreement sometimes leads to bad decisions 
+    - Think about areas where there are unanimous agreements - is there something wrong about that decision?
+- Penny Problem Gat
+    - Economists assume a linear demain curve but actually there is a massive discontinuity as soon as something costs money 
+    - If sending an email costed £0.01 spam wouldn't be a thing, people may well be better off, much communication is unnessecary
+- [[The Invisible Hand]]
+    - Cornerstone of [[Libertarianism]] and Free Market Economics
+    - Markets are basically engines for information aggregation
+    - Rising and falling prices signal demands, which in turn affects production
+    - Prices are a signal wrapped in an incentive
+- [[Base Rate]]
+    - Think about the average outcome over time 
+    - [[Thinking In Bets - Annie Duke]]
+    - Similar to [[Table Selection]], only chose to spend time when it makes sense, as a bet in the long run
+- Circle of Competence
+    - Define the limits of your knowledge
+    - Hint: the limits are smaller than you think
+    - That's because being an expert in one area does not make you an expert in anything else. VC Twitter could learn this lesson
+    - Be clear about what you know and don't know
+- Convexity
+    - If you want to be "lucky" look for opportunities with big upsides and low downsides 
+    - In addition to increased optionality, your errors will benefit you more than they harm you
+    - Tinker your way to success and innovation
+- The Go-For-It Window
+    - The gaps between social norms and scientific progress create business opportunities 
+    - Those gaps close pretty quickly
+    - You can be both too early and too late here
+- Via Negativa
+    - When we have  a problem, a natural instinct is to add a new habit or purchase a fix
+    - However something you can improve your life by taking things away
+    - The things (like foods) you avoid are important to your health than the thing you eat
+    - 
+- The Paradox of Abundance
+    - Take information on the internet - which is a market of abundance
+    - The average quality of information is getting worse - it is much cheaper to produce clickbait than high quality information. But by definition the best information is getting better
+    - Markets of abundance are bad for the average or median consumer but good for the conscious consumer
+- The Map is Not the Territory
+    - Reality never matches the elegance of theory
+    - All models have inconsistencies, but some are still useful. 
+    - If you want to find an edge, look for what the map (model) leaves out
+    - There is a link here to [[Abstraction]] as applied to SWE. 
+        - "All abstractions leak, because all abstractions lie, the map is not the territory"
+        - There are some [[Quotes]] on this
+            - "All non-trivial abstractions are, to some degree leaky" - Joel Spolsky
+        - Abstract only when you know all the details to write a sensible abstraction
+            - Understand a few layer below to understand the details 
+            - Understand a few layers above to understand the possible, real and future use cases. 
+            - 
+                - https://medium.com/@ThingMaker/its-not-what-it-looks-like-cde2c6104455
+                - Self harming is wrong - ergo 
+                - Deciding "it is what it looks like"
+                - We are limited by this because it when everyone believes in the heuristic it makes it more true.
+                - All men hanging around a playpark are child abusers. 
+                - Men that aren't don't want to be seen as one so they avoid being there alone
+                    - The men who still go to playparks are actually more likely to be child abusers
+- Eigenquestions
+    - [Source](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems/eigenquestions-3)
+    - The Eigenquestion is the most discriminating question in a set
+    - It is the question that when answered will likely lead to the answers to subsequent questions as well
+    - This is described as part of a [technique](https://coda.io/@shishir/eigenquestions-the-art-of-framing-problems) to more generally frame problems
+        - Often when you are stuck on a decision or problem, reframing that problem (using an eigenquestion) can unstick you 
+    - Comes from [[Eigenvectors and Eigenvalues]] which is a mathematical construct
+- [More from Defmarco](https://www.defmacro.org/2016/12/22/models.html)
+- 

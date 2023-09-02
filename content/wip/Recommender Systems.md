@@ -1,0 +1,57 @@
+- **Metadata**
+- [[Machine Learning]] [[Code]] [[Computer Science]] [[Statistics]]
+- Summary: Collection of notes around recommender systems, definition of terms etc.
+
+
+- Recommender systems are algorithms aimed at suggesting relevant items to users - https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+- 2 main paradigms: Content based and Collaborative
+    - Collaborative Filtering Models
+        - Methods that are based solely on the past interactions recorded between users and items
+        - These interactions are stored in a "user-items interactions matrix"
+        - The main idea is that these past user-item interactions are sufficient to detect similar users and/or similar items and make predictions based on these estimated proximities
+        - Collaborative filtering algorithms are sub-divided into 2 categories - memory based and model based approaches
+            - Memory Based 
+                - Work directly with the values of recorded interactions, assuming no model and are essentially based on nearest neighbours search - e.g. find the closest users from a user of interest and suggest the most popular items among these neighbours
+            - Model Based 
+                - Assume an underlying "generative" model that explains the user-item interactions and try to discover it in order to make new predictions
+        - The main advantage of collaborative filtering approaches is that they require no information about users or items and so they can be used in many situations. Moreover the more users interact with items the more new recommendation become accurate
+        - However these algorithms suffer from the cold start problem - it is impossible to recommend anything to new users or to recommend a new item to any users and many users or items have too few interactions to be efficiently handled
+            - This drawback can be handled in several ways:
+                - Recommend random items to new users or new items to random users - random strategy
+                - Recommend popular items to new users or new items to the most active users - maximum expectation strategy
+                - Recommend a set of various items to new users or a new item to a set of various users - exploratory strategy
+                - Or use a non-collaborative method for the early life of the user or the item
+    - Content Based Methods
+        - Unlike collaborative methods that only rely on the user-item interactions, content based approaches use additional information about users and/or items. If we consider the example of movies this additional information might be the age, sex, the job or other PII of the users as well as the category, the main actors the duration or other characteristics of the the movie (items)
+        - Then the idea of content based methods is to try to build a model based on the available "features", that explain the observed user-item interactions. 
+        - Content based methods suffer far less from the cold start problem than collaborative approaches: new users or items can be described by their characteristics (content) and so relevant suggestion can be done for these new entities
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fcamin%2FzcVKXBH8SO.png?alt=media&token=ab781a5c-32bd-4258-adac-f3a0ec3f7c4e)
+- Implementations
+    - Collaborative Approaches
+        - Memory Based
+            - user-user
+                - In order to make a new recommendation to a user, user-user methods roughly try to identify users with the most similar "interactions profile" (nearest neighbours) in order to suggest items that are the most popular among these neighbours (and that are "new" to our user)
+                - The method is said to "user-centered" as it represents users based on their interactions with items and evaluates distances between users
+                - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fcamin%2Fk-I-c0Gt71.png?alt=media&token=4ecbd54d-c757-46eb-85d1-a95aa812ba5e)
+            - item-item
+                - As, in general, every user has only interacted with a few items, the user-user method can be pretty sensitive to any recorded interactions (high variance). On the other hand, as the final recommendation is only based on interactions recorded for users similar to our user of interest, we obtain more personalised results (low variance)/
+                - Conversely the item-item method is based on the search of similar items in terms of user-item interactions. As, in general, a lot of users have interacted with an item, the neighbourhood search is far less sensitive to single interactions (lower variance), however as intereactions are coming from every kind of user (even users very different to our reference user) the method is less personalised (higher bias) 
+                - This approach is less personalised than the user-user approach but more robust
+            - One of the biggest flaws of memory based CF is that it does not scale easily: generating a new recommendation can be extremely time consuming for big systems. Indeed for millions of items and users the kNN search step can become intractable - O(ndk); n=num users, d=num items, k=num of considered neighbours.
+            - We also need to be extremely careful to avoid a "rich-get-richer" effect for popular items and to avoid users getting stuck in a local optima where they only see recommendations very close to items they have already liked.
+        - Model Based
+            - Remember these approaches only rely on the user-item interaction information (as with Memory based) but they assume a latent model that explain these interactions. For example, matrix factorisation algorithms consist of decompose the huge and sparse user-item interaction matrix into a product of 2 smaller and dense matrices: a user-factor matrix (containing users representations) that multiplies a factor-item matrix (containing items representations)
+            - Matrix Factorisation
+                - The main assumption behind matrix factorisation is that there exists a pretty low dimensional latent space of features in which we can represent both users and items and such that the interaction between a user and an item can be obtained by computing the dot product of corresponding dense vectors in that space
+                - We are not explicitly defining these features (this would be Content Based Approaches) instead we let the model discover these useful features by itself and make its own representation of both users and items
+    - Content Based Approaches
+        - In content based methods, the recommendation problem is cast into either a classification problem (predict if a user "likes" an item or not) or into a regression problem (predict the rating given by a user to an item). In both cases, we are creating a model that will be based on the user and/or item features (the content of the "content based" method).
+            - If your classification (or regression) is based on users features we say the approach is **item-centered**: modelling, optimisation and computations can be done "by item"
+            - Obviously the inverse for user-centered models
+            - In general it's typically easier to get data about items rather than people (people don't want to answer question), so it's likely you will be building a user centered system
+            - Also note than depending on the complexity of the relation to express, the model we build can be more or less complex, ranging from basic logistic/linear regions to DNNs
+            - Finally, content based moethods can also be **neither** user nor item centred: both information about users and items could be used 
+        - Example: Item-centred Bayesian Classifier
+            - `P(like|user_features)/P(dislike|user_features) = (P(user_features|like) * P(like))/(P(user_features|dislike)*P(dislike))`
+        - Example: User-centred Regression
+            - Take item features as inputs and output the rating for the item by  **a given user** (for all users)
