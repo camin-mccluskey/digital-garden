@@ -1,0 +1,98 @@
+- **Metadata**
+- [[Personal]]
+- [[Learning]] [[Metacognition]] [[Neuroscience]] [[Neuracache]]
+- Summary: 
+
+
+- [Writing Good Prompts](https://andymatuschak.org/prompts/)
+    - Retrieval practice works because the act of retrieving the information from memory reinforces the memory in your mind
+        - [[flashcard]] [[Spaced Repetition]] [[Metacognition]]
+            - Why does Spaced Repetition work to aid memory?
+                - The act of retrieving the information from memory reinforced the memory in your mind
+    - With enough practice you can effectively halt forgetting
+    - __Retrieval__ is the key element which distinguishes this effective mode of practice from typical study habits. Simply __reminding__ yourself of material (for instance by re-reading it) yields much weaker memory and problem-solving performance
+        - [[flashcard]] [[Spaced Repetition]]
+            - What is the key concept that makes Spaced Repeition so effective called?
+                - Retrieval: the act of retrieving a concept from memory.
+    - Properties of effective retrieval practice prompts
+        - Focused: Prompts should focus on one aspect of the concept at a time. If the prompt is testing for too much it dulls concentration and makes it hard to consistently remember the answer. 
+        - Precise: Vague questions elicit vague answers, again dulling recall
+        - Produce Consistent Answers: Prompts should elicit the same response each time. If not there is a danger of "retrieval induced forgetting" - where what you remember during practice is enhanced but what you don't remember is actually inhibited
+        - Tractable: Prompts should be easy enough to consistently get right. If not add clues or break down the prompts into better questions
+        - Effortful: The prompt shouldn't give away the answer. The effort involved in recall is correlated with the efficacy of retrieval practice
+        - [[flashcard]] [[Spaced Repetition]] [[Metacognition]]
+            - What are the 5 properties of effective Spaced Repetition Prompts?
+                - Focused
+                - Precise 
+                - Produced Consistent Answers 
+                - Tractable
+                - Effortful
+    - Using Cloze Deletions
+        - When writing prompts for the recall of lists, it is helpful to use lists with one element missing
+        - Example
+            - What are the components of an atom?
+                - ???
+                - neutron 
+                - electron 
+                - A: proton 
+            - What are the components of an atom?
+                - proton
+                - ??? (Clue: Jimmy)
+                - electron 
+                - A: neutron 
+        - Importantly you should keep the same ordering of the list. This helps the mind remember the "shape" and aids recall
+        - You may want to add clues if you're having a hard time remembering one aspect. Often it'll be a mnemonic. This is called elaborative encoding. 
+        - [[flashcard]] [[Spaced Repetition]] [[Metacognition]]
+            - What is the method of Spaced Repetition prompt writing where you write a list with an element missing called?
+                - Cloze Deletion
+            - Why is Cloze Deletion Effective?
+                - The mind remembers the "shape" of the list - aiding recall
+            - Adding a mnemonic as a clue is an an example of what?
+                - Elaborative Encoding
+            - Why is Elaborative Encoding effective as a memory aid?
+                - It "grounds" the memory in other memories, aiding recall
+            - What are some examples of Elaborative Encodings?
+                - Mnemonics, Pictures, rhymes
+    - Procedural Knowledge
+        - When trying to remember a procedure it is helpful to remember "key words". These are typically the verbs of the procedure or the adverbs. Often it is the key word which triggers the move to the next step
+        - Example
+            - Q. At what speed should you heat a pot of ingredients for chicken stock?
+            - A. Slowly.
+    - Conceptual Knowledge
+        - Knowing the name of something is not the same as knowing something 
+        - Concepts are harder to boil down into "flashcard" type prompts 
+        - To internalise a concept you need to understand its components and relationships. You need to "trace the edge" of a concept
+        - Tips for writing Conceptual Knowledge Prompts
+            - Attributes and tendencies: What makes X, X? What’s always, sometimes, and never true of X?
+            - Similarities and differences: Knowing what X is requires knowing what relates and distinguishes it from other adjacent concepts.
+            - Parts and wholes: What are some examples of X? Are there important “sub-concepts” of X? Is “X” a part of some broader category? Visualize a Venn diagram, even if the edges are fuzzy.
+            - Causes and effects: What does X do? What causes it to do that? What doesn’t it do? When is it used?
+            - Significance and implications: Why does X matter? What does it suggest? Make the concept personally meaningful.
+    - Tips for Writing Prompts from Source Material 
+        - It is hard to know on the first pass through a book, article, podcast etc what concepts and facts will be particularly useful. The first thing to do it read through quickly and identify high level concepts. 
+            - This is what I do already when I highlight things and begin to write them up in Roam, in my own words
+            - At this point it's a good idea to write 5-10 prompts of what seems most useful, important and meaningful
+                - [[flashcard]] [[Spaced Repetition]] [[Metacognition]]
+                    - As a first pass through a topic, around how many Spaced Repetition prompts should you aim to write?
+                        - 5 - 10
+            - These 5-10 might be all you need but more likely, if the piece is really worth remembering, you will want to dig a bit deeper into some of the concepts - at this point you can make a second pass at the prompts for these concepts, at a lower level of abstraction
+        - If you have less than 5 prompts for a topic, just delete it. This is orphan knowledge that's probably not worth having anyway
+        - Go back and review prompts regularly. Especially if you see 
+            - A high rate of false positives: When you know the answer but don't really remember what it means. In this case you should refine the prompt to be short and probably split it out to test on a more granular level. Using Cloze Deletions Is particularly susceptible to this. Also binary answers - it is pretty easy to remember yes/no without understanding **why**
+            - A high rate of false negatives: When you know the answer but not the particular one given in your prompt's answer. This can often happen when there are more than one correct answer for a prompt. In this case you should give more context to the prompt.
+            - [[flashcard]] [[Spaced Repetition]] [[Metacognition]]
+                - What are the 2 signs that your Spaced Repetition prompt is ineffective? (Hint: They are obvious **after** you've answered the question)
+                    - A high rate of false positives: When you know the answer but forget what it means
+                    - A high rate of false negatives: When you know the answer but not the particular one given on the flashcard
+                - What types of Spaced Repetition prompts are prone to a high rate of false positive answers? (Where you know the answer but forget what it means)
+                    - Cloze deletion prompts
+                - Why are Cloze deletion prompts prone to high false positive answers? (Where you know the answer but forget what it means)
+                    - You learn the "shape" of the list without remembering what each point means 
+                - What type of Spaced Repetition answers are prone to high rate of false positives? (Where you know the answer but forget what it means)
+                    - Binary answers 
+                - What should you do if your Space Repetition prompt is producing a high rate of false positives? (Where you know the answer but forget what it means)
+                    - Refine the prompt to be shorter. Split off the prompt into more prompts to be more granular 
+                - What types of Spaced Repetition prompts are prone to a high rate of false negative answers? (Where you know the answer but not the correct one on your flashcard)
+                    - Prompts where there is not enough context 
+                - What should you do if your Space Repetition prompt is producing a high rate of false positives? (Where you know the answer but not the correct one on your flashcard)
+                    - Give more context to the prompt.

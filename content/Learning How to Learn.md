@@ -1,0 +1,142 @@
+- **Metadata**
+- [[Coursera]]
+- [[Learning]]
+- [[Mental Models]]
+- Summary: Course on the meta skill of learning to to learning effectively
+
+
+- Coursera: Learning How to Learn
+    - 2 styles of thinking:
+        - Focused
+        - Diffuse
+    - Focus Mode
+        - Think of thoughts as a ball being shot into a pinball machine. With bumpers guiding the ball through a familiar path.
+        - An unfamiliar thought is a like bumpers deep down inside the pinball machine. There are many blockades to reaching this new thought pattern
+    - Diffuse Mode
+        - A pinball machine with spaced out bumpers. The thought has a much greater chance of reaching new bumpers but they are not as linked up
+        - The mind can only be in the focus mode or the diffuse mode at one time.
+    - Dali and Edison would relax in a chair, holding keys and ball bearings respectively, as they were falling asleep (slipping into diffuse mode). When they fall asleep the object would fall, bringing them back to focus mode. To learn we must move back and forth. Like with weight training we must build a neural structure by focusing (training) and diffusing (resting). Learning takes time.
+    - What is Learning?
+        - We are not consciously aware of how our brains work. We do not need to know to survive. There are a million trillion synapses in the brain, brain structures are constantly changing – after learning and sleep. You are not the same person you were after a nap. Brainfacts.org
+    - Procrastination, Memory and Sleep
+        - When we look at things we’d rather not do we activate the insular cortex (pain center). However when we start this feeling soon passes
+            - Unhappy feeling
+            - You funnel attention to a more pleasant task
+            - Happiness (temporary)
+    - Pomodoro (Italian for tomato after the cooking timer) method
+        - Set timer to 25 mins
+        - Turn off all distractions
+        - Focus
+        - Reward (5 min breaks then longer 15 min break after 4 pomodoro sprints)
+    - **Practice make permanent **
+        - Math and science seem harder because of the abstract nature of the concepts. There are no physical ‘things’ you can point to, to describe or explain the concept of multiplication. This makes practice so much more important. Even if the concepts are abstract the neural patterns are as real as anything else. Neural patterns deepen with practice. However, it takes time, the neural mortar needs time to set – this is what the diffuse method is for.
+    - Memory
+        - Long term memory – Like a large warehouse. To put an item in there it must be repeated to increase the chance it is recalled.
+        - Working memory – holds about 4 ‘chunks’. It is like a fuzzy blackboard. Repetition is needed to hold something in working memory. E.g. repeating a phone number until you can write it down.
+        - To move short term memory into long term memory it requires practice. Space repetition is the correct way to do this. This is because of the mortar analogy. Repeating something 20 times in one day is not nearly as good as repeating something 20 times over several days.
+    - Sleep
+        - As we stay aware the brain creates toxins. When we sleep we flush out these toxins, allowing the brain to function more freely. It also strengthens areas we need and want to remember, while weakening things we can forget. It actually repeats concepts to strengthen them. Going over concepts before we sleep, we improve the chances of dreaming about them. Indeed, we can increase the chances even more by explicitly saying we want to dream about a concept.
+    - Misc.
+        - Exercise increases the production of new neurons in the hippocampus.
+        - Equally, active engagement in social creative activities does the same.
+        - Other than those things, there is no evidence of new neuron production after birth. We simply built new connections.
+    - Chunking
+        - Chunking is the mental leap that allows you to make sense of concepts. Chunks help to link a concept to others. A fact is like a single puzzle piece, a chunk is a few pieces put together through meaning, connection or use. A chunk is a network of neurons that are used to firing together.
+        - An important part of the focus mode is to link together small pieces of information into chunks. When you are stressed, tired or pressured the pre-frontal cortex struggles to do this.
+        - Small chunks can become larger as you become a master of the material. It helps your brain run more efficiently - as one simple thought, unites a whole network of complex activity. I.e thinking “I will get dressed”, sets off an entire process of thoughts and motions which bring about the result. Experts have simply built larger chunks than you.
+        - Once ideas are chunked, it only takes up one slot in working memory. It is now like the chunk is a hyperlink to a whole range of knowledge.
+        - How to Form a Chunk
+            - Ensure you are not distracted – free the working memory
+            - Understand the patterns – break the idea into smaller steps (mini-concepts)
+            - Try to understand each mini-concept – allow the focus and diffuse mode to switch. Ensure you understand, not just follow the solution. Close the book and practice.
+            -  Understand where the chunk sits in the larger context (and your understanding). Practice problems where your chunk can be used (and where it can't). Learning like this requires bottom up learning (chunking) and top down learning (big picture). Context is where bottom up and top down learning meet.
+        - In summary
+            - Focused attention
+            - Understanding
+            - Practice
+    - Illusions of Competence
+        - After you have read something, look away and see how much you recall. Then restudy and repeat. Students learned far more and on a much deeper level than any other method (including just reading the text and even making mind maps). The recall process seems to strengthen neural pathways and creates hooks to hang your knowledge on. This is why teaching a concept to someone else is so crucial
+        - The only time just rereading works, seems to be when time passes (in which case this is spaced repetition).
+        - The reason that students like to reread notes is that it gives the illusion that, when they read the information is in the brain. Recall is like a test to see how much is actually in the brain, mistakes are good! Mistakes give you an opportunity to correct your thinking.
+        - Recalling material in a new physical space is a great way to help learning because we pick up cues from our physical surrounding, this is probably different from the test room hence independence from physical surroundings is important.
+    - Motivation
+        - Acetylcholine neurons – activate circuits which control interneuron plasticity and help form new long term memories. Acetylcholine signals in relation to focuses learning and attention.
+        - Dopamine neurons – dopamine is released when we receive unexpected rewards. Dopamine neurons are in the business of predicting future rewards. When we promise ourselves a future reward for finishing a Pomodoro session we are tapping into our dopamine neurons to motivate us.
+        - Serotonin neurons – serotonin activity is inversely linked to risk taking. Alpha male monkeys have the most serotine and beta males the least though (it is linked to social activity).
+    - Overlearning – practicing something over and over once mastery has been achieved. Research has shown this is a waste of time in general as you have a hammer and everything begins to look like a nail. It also brings an illusion of confidence.
+    - Einstellung – When a neural pattern which has been developed inhibits original and correct thought. It is a rut which prevents neural activity in the area where the correct solution lies. Think about a pin ball machine with a path of bumpers which the ball can't really escape.
+    - Interleaving – when a basic idea is practiced, start mixing up your learning. Begins to develop intuition and creativity. Prevents einstellung.
+    - Most innovators are not easily possessed by einstellung – young people or researchers previously trained in other fields.
+    - Deliberately practice things you find difficult to avoid an illusion of competence.
+    - Willpower uses a lot of neural energy – don’t waste this on fending off procrastination!
+    - Procrastination can be a keystone bad habit. It shares a lot in common with addiction. One tells themselves stories to get out of things we don’t want to do (irrational reasons which sound reasonable at the time).
+    - Procrastination is dangerous as it doesn't allow the glue or mortar of understanding time to set, to build strong neural pathways.
+    - Zombies
+        - Once we have chunked something, our brain goes into habitual zombie mode. We don’t have to think about the specifics of a task to execute. Habits can be good or bad.
+    -  Habits:
+        - Cue
+        - Routine – this is zombie mode (useful or harmful)
+        - Reward – Every habit develops because of the reward
+        - Belief – to change a habit, you need to change the underlying belief
+        - This is what [[The Power of Habit - Charles Duhigg]] says - Habits are a Cue > Routine > Reward Loop.
+        - Procrastination develops because the reward follows so quickly
+            - Value Process over Product
+            - Product is an outcome
+            - Process is how you get there – simple habits
+            - To beat procrastination focus on process over product as the process is what causes the pain which cues to procrastination. The easiest way to focus on process is to focus on the [[Pomodoro]] sprint over any particular goal as this engages our zombie mind giving rise to flow. Setting yourself up so that distractions are minimal and that you can ignore them as they arise allows these sprints to be most effective.
+            - To change a habit, focus on changing your reaction to a cue. This is effective and doesn’t require the same willpower as correcting yourself each time you fall into the habitual behaviour (willpower is a precious resource). Examine procrastination from the habitual framework perspective
+                - The cue
+                    - Location
+                    - Time
+                    - How you feel
+                    - Reactions
+                - The routine
+                    - Plan – remove distractions, savour the victories
+                - The reward
+                    - Reward yourself to overcome the comfort that comes with procrastination
+                    - Reward yourself proportional to the achievement
+                    - Only once your brain starts to expect the reward will the important habitual rewiring occur
+                    - Remember the better you get at something the more enjoyable it is 
+                - The belief
+                    - Surround yourself with likeminded individuals to overcome the desire to renege on new habits.
+        - To-dos
+            - Write a weekly plan on things to do
+            - Write a daily plan the night before – this frees up working memory and allows to subconscious to prioritise tasks overnight.
+            - Mix up process goals (set up as Pomodoro sprints) with diffuse tasks which can be used as breaks.
+            - Eat your frogs first  - set up your least favourite Pomodoro for first thing in the morning.
+        - Summation
+            - Keep a planner
+            - Commit yourself to certain routines and tasks each day
+            - Delay rewards until you finish a task
+            - Watch for procrastination cues
+            - Gain trust in your new system
+            - Have backup plans for when you sill procrastinate
+            - Eat your frogs in the morning
+    - Memory
+        - Our minds are excellent are visuospatial memory. Our ancestors needed this type of memory over the memory needed for names and places. We can tap into this visual special centre by creating ‘pictures’ relating a visual cue with something we want to remember.
+        - Remember that focused attention with spaced repetition is still needed. Handwriting is much more effective in creating recallable memories. Draw a picture, imagine a feeling or smell, say the information aloud – engage all senses.
+    - Long Term Memory
+        - ---------------------------------- consolidation --------------------------------
+        - |									|
+        - |									|
+        - Short term memory (active state) reconsolidation  Long Term Memory (inactive state)
+        - |									|			|||									|
+        - <--------------------------------- reactivation -------------------------------------
+        - Astrocytes – provide nutrients to neurons, maintain extracellular ion balance, are involved in repair after injury and seem to play a huge role in learning.
+        - Constructing logical memory techniques such as mnemonics can be extremely helpful for long term memory
+    - Memory Palace
+        - Because of the brains superior visuospatial skills this works extremely well especially for lists which have less logical order with each other. Or lists of any kind really. Students that use these tricks, outperform others. Memory tricks allow the expansion of working memory and ease of committing thoughts as long term memory, they also encourage creativity of thinking. The funnier and more evocative the images the better.
+    - The best gift you can give your brain is physical exercise – this grows neuron in the hippocampus. Neurons will die if you don’t use them in this area, exercise will also help. Exercise is by far the most effective way to keep neurons healthy and produce more.
+    - Learning doesn’t progress linearly. Sometimes we hit a wall or suffer knowledge collapse. This can happen when the brain restructures. For language learners sometimes the language can seem totally incomprehensible. This is a natural phenomena and actually means you are about to see a leap forward in understanding.
+    - Metaphor and Analogy
+        - Metaphors can be revised as understanding matures. This takes advantage of the visual abilities of the brain. It often is useful to imagine **yourself** within the metaphor – put yourself in the shoes of whatever concept you are picturing.
+        - Note that this helps with einstellung.
+        - ==The virtue of the less brilliant is **perseverance**.==
+    - People with damage to the right hemisphere often miss the aha big picture context. Stopping to revisit what we have done with the big picture in context is helpful. The left hemisphere clings to its interpretation of the world and our work,  the right hemisphere needs to be employed to fix our mistakes.
+    - One of the best ways to catch mistakes, is to work in groups.
+    - Testing itself is a great learning experience. You will learn far more spending 1hr on a test than on 1hr reading the material.
+    - Tests
+        - ==Start hard, move to easy when you get stuck.== This kicks off the focused mode and lets the diffuse mode work at the hard start. Repeat as needed. This ensures you get to work on all problems and avoid einstellung.
+            - Thinking about [[Learning the Piano]] - I often start be reviewing the "easier" exercises then push forward to finish, often I struggle at the end. I should do the exact opposite of this!
+        - If you shift your thinking from “I’m afraid” to “I’m excited to do my best”, research shows a performance lift. Deep breathing counteracts the fight or flight instinct. Practice this deep breathing for a minute or two a day for a while before the test.
+        - Don’t feel bad about feeling a lack of motivation the day before a test. This seems to be a common reaction for those who feel prepared.

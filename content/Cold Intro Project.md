@@ -1,0 +1,57 @@
+- [[Personal]] [[Writing/Digital-Garden-Content/Ideas]] [[Business]]
+
+
+- Rules
+    - Name, Position, Contact
+    - Hook (something I've read etc), why I'm contacting them, what I can do for them, ask
+    - Keep it short - 1 paragraph
+- Advice on Cold Outreach - summary of this [post](https://sriramk.com/coldemail) from [[Sriram Krishnan]]
+    - Short and grabs attention - no more than 2 paragraphs
+    - Super clear on who you are - if you have credentials use them otherwise, demo credibility with your work. Do the later until you can do the former
+    - Value prop for the receiver - come with ideas, fresh thoughts on something you know they're interested in or access to something they might want
+    - Has a specific ask - ideally something they can do within seconds. Everyone wants general advice but that gets filtered into a 'later' bucket and ignored. Follow me on Twitter, try this app I've built, take a look at these screenshots, link to this post I've written. All of the above can be done **now**
+    - Note: The author is happy for cold outreach to sriram@sriramk.com.
+- People I'd like to meet
+    - RoxCodes
+        - https://twitter.com/RoxCodes/status/1609437591992164352?s=20&t=CMRMaDB1FQCTt9OdguSnQA
+        - ^ feel this massively. idk let him know he's not alone, maybe share a bit about my journey and how I plan to get out of it. Perhaps offer a call, see if we can bounce some ideas around and lean on eachother for accountability
+        - Hard truths for him: happiness is in the journey, not the destination. The obstacle is the way - load up an amazon gift card for him to get it. 25 is plenty of time, I'm 28 and feel the same way. I think 30 is the big number ngl
+    - [[Steven Bartlett]]
+        - Create something for Question Behaviour Effect - chrome plugin or simple iPhone app
+    - [[Ben Kuhn]] - [twitter](https://twitter.com/benskuhn)
+        - Subbed to his newsletter - he reaches out to ask people who they are so reply to [this email](https://mail.google.com/mail/u/0/#inbox/FMfcgzGrcFcpPgRknsmShCxJTMzmgZTk)
+        - Found him via this [article](https://www.benkuhn.net/overconfidence/) on overconfidence which was interesting
+            - Using low-information heuristics is fine when you are not an expert, when you don't have high quality **specific** information and/or when the decision is not high-investment
+            - People lean on low-information heuristics too often in the wrong regime
+            - Low-info heuristics generally lean on the side of being __less ambitious__ because the low-info heuristic is that ambitious projects generally fail
+            - Advice to break away from low-info heuristics
+                - Build a [gears-level model](https://www.lesswrong.com/posts/B7P97C27rvHPz3s9B/gears-in-understanding) of the decision you're trying to make
+                - Think really hard about the problem. Most inside views are wrong in some way. Practice [[First Principles Thinking]]
+                - Don't fool yourself with motivated reasoning - stress-test your idea. **Use the low-info heuristics as a stress-test**
+                - Don't be afraid to try ambitious things with asymmetric payoffs!
+        - He is happy to receive cold outreach and linked to this [advice](https://sriramk.com/coldemail). See Advice on Cold Outreach - summary of this [post](https://sriramk.com/coldemail) from [[Sriram Krishnan]]
+    - [[Sriram Krishnan]]
+        - See Advice on Cold Outreach - summary of this [post](https://sriramk.com/coldemail) from [[Sriram Krishnan]]
+        - Tell him about this project - ask if he has any recommendations for people I should talk to the in following areas 
+            - x
+            - y
+            - z
+        - Thank him for the advice - I came across this 2 weeks into the journey  
+    - Mike Sheffer - [linkedin](https://www.linkedin.com/in/mike-sheffer-8178212b/overlay/photo/)
+        - Opportunities for creator tools or content
+    - https://www.insidesuccessuk.co.uk/about-us/ - these guys make a magazine - could they do with an app that gets updated?
+        - Teach young people programming skills 
+        - Team that could update the app and extend it - could launch other apps 
+    - MrBeast 
+        - Said he pays someone to refresh the tourist visa webpage - this could be automated
+            - Probably not a good idea - wait times are down and presumably his gf already has one that will last for a while - he mentioned this on a podcast 3 months ago from 17th Jan - actually 90days per year
+    - Jason Calancanis
+    - Peter Thiel
+    - Elon Musk
+    - Dan Abranov
+    - Ryan Holiday
+    - Tony Faddel
+    - Reid Hoffman
+    - John Collison
+    - Patrick Collison
+    - Naval Ravikant
