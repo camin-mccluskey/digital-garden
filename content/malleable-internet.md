@@ -1,3 +1,11 @@
+---
+title: Malleable Internet
+drafts: 
+tags:
+  - ideas
+  - programming
+  - webdev
+---
 ## Intro
 Thoughts around how new browsers (e.g. Arc) and LLMs will empower users to get more from their software tools (and the internet writ large). 
 

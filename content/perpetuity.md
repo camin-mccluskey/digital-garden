@@ -1,6 +1,6 @@
 ---
 title: Perpetuity
-private: 
+drafts: true
 tags:
   - sappling
   - ideas
@@ -8,15 +8,6 @@ tags:
   - biotech
 ---
 
---
-title: Perpetuity
-private: true
-tags
-- sappling
-- idea
-- e/acc
-- biotech
----
 
 Are there things we'd like to happen forever in the universe? Can we pay for these things to happen?
 

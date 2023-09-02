@@ -1,4 +1,4 @@
-- [[Writing/Digital-Garden-Content/Ideas]] [[Blogging]] [[Writing]]
+- [[Writing/Digital-Garden-Content/wip/Ideas]] [[Blogging]] [[Writing]]
 
 - Summary: Idea that respect is the thing to optimise for in cofounding relationships.
 

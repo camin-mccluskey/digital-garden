@@ -1,4 +1,4 @@
-- [[Personal]] [[Writing/Digital-Garden-Content/Ideas]] [[Business]]
+- [[Personal]] [[Writing/Digital-Garden-Content/wip/Ideas]] [[Business]]
 
 
 - Rules

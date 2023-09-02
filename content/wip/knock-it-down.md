@@ -5,7 +5,7 @@ tags:
   - mental-models
   - programming
   - sappling
-draft: true
+drafts: true
 ---
 
 ![[../assets/elon_trust_safety.jpeg|500]]

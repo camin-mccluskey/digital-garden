@@ -5,6 +5,6 @@ tags:
   - personal
   - productivity
   - sappling
-draft: true
+drafts: true
 ---
 Testing this works (properties as frontmatter)

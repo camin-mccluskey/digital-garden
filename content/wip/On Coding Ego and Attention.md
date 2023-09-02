@@ -1,5 +1,5 @@
 - **Metadata**
-- [[Writing/Digital-Garden-Content/Ideas]]
+- [[Writing/Digital-Garden-Content/wip/Ideas]]
 - [[Code]]
 - [[Mental Models]]
 - [[Jose Brown]]

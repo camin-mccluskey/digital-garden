@@ -5,7 +5,7 @@ tags:
   - seedling
   - ideas
   - mental-models
-draft: true
+drafts: true
 ---
 *What's the point: work out a razor for determining which of the 2 mindsets I want to be in at different times. OR determine a better mindset that is ultimately compatible with both (a meta mindset that brings this mental conflict into harmony)*
 

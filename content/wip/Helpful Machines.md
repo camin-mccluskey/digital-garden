@@ -1,5 +1,5 @@
 - **Metadata** 
-- [[Writing/Digital-Garden-Content/Ideas]] [[Personal Projects]] [[Productivity]] [[Metacognition]]
+- [[Writing/Digital-Garden-Content/wip/Ideas]] [[Personal Projects]] [[Productivity]] [[Metacognition]]
 - Summary: Things like keybr.com work against the user to keep them on the edge of their skill level (as discussed in [[Badass - Kathy Sierra]]). How if this could be an abstracted principle for lots of skills? Basically I'm addicted to keybr.com, it's like the **tiktok of learning a new skill**. My question is: can other skills be taught in this way? 
 
 

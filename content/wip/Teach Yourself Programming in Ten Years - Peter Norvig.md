@@ -1,5 +1,9 @@
+---
+title: Teach Yourself Programming in Ten Years - Peter Norvig
+---
+
 - **Metadata**
-- [[Writing/Digital-Garden-Content/Ideas]] [[Code]] [[Personal]]
+- [[Writing/Digital-Garden-Content/wip/Ideas]] [[Code]] [[Personal]]
 - [[Peter Norvig]]
 - [source](https://norvig.com/21-days.html)
 - summary: Life is short, the task is long. Take your time. The article emphasises the [[Malcolm Gladwell]] take from [[Outliers - Malcolm Gladwell]], namely 10,000 hrs of [[Deliberate Practice]].

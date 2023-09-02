@@ -1,5 +1,5 @@
 - **Metadata**
-- [[Writing/Digital-Garden-Content/Ideas]]
+- [[Writing/Digital-Garden-Content/wip/Ideas]]
 - Lat Updated: [[2020-07-09]]
 - [[Mental Models]]
 - Summary: Hard is not defensible. You need something the snowballs to be definesible in business, especially in startups. Amazon's delivery network, Apple's design and brand, Google's datasets. Hard is merely a temporary roadblock for motivated competitors and the larger the opportunity the less of a roadblock. 

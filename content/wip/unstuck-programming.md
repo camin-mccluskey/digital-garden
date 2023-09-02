@@ -5,7 +5,7 @@ tags:
   - ideas
   - productivity
   - sappling
-draft: true
+drafts: true
 ---
 A collection of techniques I find helpful for getting unstuck when thinking through hard problems, in programming and elsewhere. 
 

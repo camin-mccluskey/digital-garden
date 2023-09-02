@@ -1,5 +1,5 @@
 - **Metadata**
-- [[Writing/Digital-Garden-Content/Ideas]]
+- [[Writing/Digital-Garden-Content/wip/Ideas]]
 - Summary: Mental models I have come across that may be useful to view an area at a certain level of abstraction
 
 

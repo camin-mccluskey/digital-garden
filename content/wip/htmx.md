@@ -6,6 +6,6 @@ tags:
   - htmx
   - webdev
   - sappling
-draft: true
+drafts: true
 ---
 Learning HTMX

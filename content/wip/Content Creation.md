@@ -1,4 +1,4 @@
-- [[2023 Reset]] [[Writing/Digital-Garden-Content/Ideas]] [[Personal]]
+- [[2023 Reset]] [[Writing/Digital-Garden-Content/wip/Ideas]] [[Personal]]
 
 
 - [Ludwig's Advice for Streaming](https://www.youtube.com/watch?v=0i9gkprYekI&ab_channel=Ludwig)

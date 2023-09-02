@@ -5,5 +5,5 @@ tags:
   - ideas
   - personal
   - seedling
-draft: true
+drafts: true
 ---
