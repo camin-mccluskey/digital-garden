@@ -10,7 +10,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "blog.camin.xyz",
-    ignorePatterns: ["private", "templates"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
+    defaultDateType: "created",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
