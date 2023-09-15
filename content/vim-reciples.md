@@ -39,7 +39,7 @@ drafts:
 
 # Finding and Replacing Text
 ## Add all results from Telescope to Quickfix List
-From search results list `cmd+q` will add all results to QuickFix list.
+From search results list `Ctrl+q` will add all results to QuickFix list.
 ## Find and Replace All text in Quickfix List
 `:cfdo %s/<find>/<replace>/g`
 ## Find and Replace
