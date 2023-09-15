@@ -35,7 +35,7 @@ Solving problems that actually matter. I derive a lot of joy in the act of probl
 
 I am passionate about learning, so when the opportunity arises to try a new technology or approach that is always motivating. With that said, I do try to find the balance at work of using the right tool for the job (i.e. [choose boring technology](https://mcfunley.com/choose-boring-technology)).
 
-I enjoy the process of gathering data, learning and iterating. In many ways I find that more fulfilling than getting it right first time.
+I enjoy the process of gathering data, learning and iterating. In many ways I find that more fulfilling than getting it right first time. I try, although not always successfully, to follow [[cult-of-done|The Cult of Done Manifesto]].
 
 # What Demotivates Me
 
