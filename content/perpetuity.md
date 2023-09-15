@@ -1,14 +1,12 @@
 ---
 title: Perpetuity
-drafts: true
+draft: true
 tags:
   - ideas
   - e/acc
   - biotech
   - sapling
 ---
-
-
 Are there things we'd like to happen forever in the universe? Can we pay for these things to happen?
 
 One obvious one would be to transcode your DNA*, or some other facet of your physical/mental being today and preserve it in perpetuity (or until some specified condition is met).

@@ -5,7 +5,7 @@ tags:
   - react
   - productivity
   - sapling
-drafts: true
+draft: true
 ---
 *Whats the point: It's much harder to write simple programs than hard ones. Like sand on a beach, there are many more configurations that look random than those that look ordered. Likewise there are many configurations of a program that, while achieving the stated goal of the program are messy rather than clean. Cleanliness is a virtue - it's easier to reason at the time, avoiding bugs and making it easier to test. It's also easier to reason about later making it easier to maintain, refactor and extend. The point of this piece is to tell a story of a real refactoring, done poorly, painfully and slowly in the hope that I/we can learn something about the nature of good code*
 
