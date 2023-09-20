@@ -10,9 +10,9 @@ This is my Digital Garden - a combination of an online notebook and a personal w
 
 You can search across all notes using the search box (or using `cmd+k`) or by clicking on the graph view, backlinks or tags on this page. I use tags to organise notes by concept with the exception of the following tags - `#seedling`,  `#sapling` and `#evergreen`:
 
-- **Seedlings**: Random notes and thoughts as they occur. Mostly unconnected.
-- **Saplings**: Starting to formulate a coherent pattern of thoughts, loosely connected with other ideas.
-- **Evergreens**: Densely connected, well fleshed out ideas.
+- #seedling: Random notes and thoughts as they occur. Mostly unconnected.
+- #sapling: Starting to formulate a coherent pattern of thoughts, loosely connected with other ideas.
+- #evergreen: Densely connected, well fleshed out ideas.
 
 If you're not sure where to get started, I've back-linked a couple of short blogs to this page that might serve as good jumping off points.
 
