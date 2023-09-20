@@ -27,7 +27,7 @@ They can, and should, dream of the ways it *could* work but they must not lose s
 
 What is the thing that is most likely to do the most damage to your idea? This is the thing you need to be focused on first. 
 
-It’s very natural to shy away from this. No one likes to think about killing their baby. However it’s necessary. This, above all else, is the pain you need to face up to. The psychological pain of being misguided, of having poor intuition. With that said, you can’t test every last thing - there will always be known risk and unknown risk - this is part of the gamble you take.
+It’s very natural to shy away from this. No one likes to think about killing their baby, however necessary it might be. This, above all else, is the pain you need to face up to. The psychological pain of being misguided, of having poor intuition. With that said, you can’t test every last thing - there will always be unknowable or untestable risk to face - this is part of the gamble you take.
 
 ## 2. Run headlong into the biggest risk 
 
@@ -39,7 +39,7 @@ Now you've identified the biggest risk it's time to commit to doing the hard thi
 
 By this I mean; if your **intuition** is that SMEs **lack** an adequate solution for paying international payroll, then your **test** should be that "SMEs have **perfectly adequate** solutions for paying international payroll."
 
-This may seem like a trivial distinction, but the importance is to commit yourself to not half assing the test in hopes you get the result you "want". You should be trying your utmost to prove that your idea, in whole or in part, is unworkable in some way. Only when you are confident[[hypothesis-driven-startup#*A note on confidence|*]]  that the hypothesis is wrong, can you deem the hypothesis test a "failure" (in which case your initial intuition is correct).
+This may seem like a trivial distinction, but the importance is to commit yourself to not half-assing the test in hopes you get the result you "want". You should be trying your utmost to prove that your idea, in whole or in part, is unworkable in some way. Only when you are confident[[hypothesis-driven-startup#*A note on confidence|*]]  that the hypothesis is wrong, can you deem the hypothesis test a "failure" (in which case your initial intuition is correct).
 
 ## 4. Pre-commit to a failure metric
 
@@ -50,7 +50,7 @@ In reality it's likely there are many hypothesis tests to be run, including whet
 
 After you've conducted each test there are 2 possible outcomes - the hypothesis is validated or invalidated, with your initial intuition taking the inverse result.
 
-- **If Invalidated (intuition correct)** - what is the new stack ranking? - in the scope of the test have new risks surfaced? Otherwise move onto the next big risk.
+- **If Invalidated (intuition correct)** - what is the new stack ranking? - in the scope of the test have new risks surfaced? Otherwise move onto the next big risk to test.
 - **If Validated (intuition incorrect)** - great news! You've avoided wasting your time and energy. Has the test given you new ideas for the next avenue to explore? Follow the [[ideation-flywheel|Ideation Flywheel]].
 
 # \*A note on confidence
@@ -67,10 +67,10 @@ As with any mental model it’s worth asking 2 questions:
 
 As I see it, the risks of being *too* hypothesis driven are as follows:
 
-1. Losing sight of the ultimate goal - As mentioned, success in startups is not the absence of risk, it's making something people want and giving it to them in a way that is profitable for your business.
-2. It's easy to procrastinate by testing every risk - don't jump at shadows, some risk is worth taking, particularly if it's reversible ([one-way vs. two-way door decisions](https://notes.paulswail.com/public/One-way+vs+two-way+door+decisions)).
-3. This model is most appropriate for certain types of businesses - there is no probably no good hypothesis test for customer behaviour change, or regulatory change for example. It's hard to know what teens in 2024 (or 2025 or 6) are going to want to do online. You can test and test but at some point you need to defer to your gut.
-4. This model doesn't account for the unknowable risks - you can only test the risks you can think of and there’s a fairly decent chance the biggest risk is something no one on your team could have thought of. What this model does allow you to do is stack rank risks as they present themselves however.
+1. **Losing sight of the ultimate goal** - As mentioned, success in startups is not the absence of risk, it's making something people want and giving it to them in a way that is profitable for your business.
+2. **It's easy to procrastinate by testing every risk** - don't jump at shadows, some risk is worth taking, particularly if it's reversible ([one-way vs. two-way door decisions](https://notes.paulswail.com/public/One-way+vs+two-way+door+decisions)).
+3. **This model is most appropriate for certain types of businesses** - there is no probably no good hypothesis test for customer behaviour change, or regulatory change for example. It's hard to know what teens in 2024 (or 2025 or 6) are going to want to do online. You can test and test but at some point you need to defer to your gut.
+4. **This model doesn't account for the unknowable risks** - you can only test the risks you can think of and there’s a fairly decent chance the biggest risk is something no one on your team could have thought of. What this model does allow you to do is stack rank risks as they present themselves however.
 
 
 
