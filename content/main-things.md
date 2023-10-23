@@ -80,7 +80,9 @@ Learn to say “no” or, if it makes you feel better, “not yet” to ideas th
 
 The “dumb” idea and the genius idea often look pretty similar. “Rockets cost a lot, maybe we shouldn’t throw them away after every launch”, is both silly and obvious in retrospect. 
 
-Some of the most impactful innovations have this property of seeming both naive for their time and completely obvious in hindsight. This suggests an interesting attack vector for figuring out what you should be working on — try to understand _why_ you’re not taking the most obvious path to your goal. Most times there are good reasons, but occasionally — maybe due to your unique perspective or changes in market or technology — the obvious path absolute could work, given the right execution.
+Some of the most impactful innovations have this property of seeming both naive for their time and completely obvious in hindsight. This suggests an interesting attack vector for figuring out what you should be working on — try to understand _why_ you’re not taking the most obvious path to your goal. Most times there are good reasons, but occasionally — maybe due to your unique perspective or changes in market or technology — the obvious path absolutely could work, given the right execution.
+
+Additionally, this mental model proves useful against a common trap that ensnares otherwise smart people.  It's what Visaken Veerasamy calls ["Advanced Stupid"](https://visakanv.substack.com/p/are-you-serious) - where one gets so fixated on trying to optimise something complicated, that one forgets to optimise for survival, and subsequently gets knocked out of the game. 
 
 ## 3. Maintain a Spaced Repetition Model of the Main Thing
 
