@@ -24,7 +24,7 @@ You can do this in various ways, including:
 - Looking back into your professional and personal life - think about your current job, your previous jobs, internships etc - what sticks out as particularly painful?
 - Asking people you know - what are people *consistently* complaining about in the pub or around the dinner table?
 
-The core theme in all of the above "tips" is to remain continuously curious.
+The core theme in all of the above "tips" is to remain continuously curious about the world, people, and their problems.
 # 2. Stack rank problems
 
 Now you have a list of possible problems you could work on. How do you decide which among them is the best use of your time and resources?
