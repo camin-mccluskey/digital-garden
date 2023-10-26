@@ -4,6 +4,7 @@ tags:
   - evergreen
   - programming
   - productivity
+  - git
 draft: false
 ---
 Certain operating systems, for example MacOS, are case **insensitive** in how they treat files. I.e. `test.txt` and `Test.txt` are equivalent. 
@@ -21,7 +22,7 @@ This presents a problem for developers as the default setting for Git is to resp
 
 To solve this you have 2 options.
 
-### 1. Single File Rename: `git mv`
+## 1. Single File Rename: `git mv`
 
 If you only need to rename a single file you can use the command:
 
@@ -32,7 +33,7 @@ git mv file.txt FileNewCasing.txt
 If you forget and just run `mv <file> <FileNewCasing>` you can always run `git mv <file> <FileNewCasing>` later (because they're the same file to the OS remember).
 
 
-### 2. Renaming Multiple Files
+## 2. Renaming Multiple Files
 
 If you've gone on a spree of renames, and running `git mv` would now be impractical, you might want to blow away Git's tracking of your files and then re-add the renamed files back to be tracked.
 

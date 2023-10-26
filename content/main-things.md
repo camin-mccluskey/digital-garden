@@ -26,15 +26,15 @@ You might wonder, given your business is presumably of great personal importance
 ## 2 Harder Answers
 
 1. **You’re “too busy”** — You’re in the middle of a storm, with water flooding in. The temptation is to grab a bucket, the right thing thing to do is look for the hole in the bottom of your boat. The moments when it seems you don’t have time to step back and consider what actually matters, are the ones when that is precisely what you need to do.
-2. **Analysis Paralysis** — Most decisions do not affect the long term outcome, but a few _really_ do. Importance is massively power law distributed. The skill is figuring out which ones matter without the benefit of hindsight. Perhaps more perniciously, often the problems that squeal the loudest to be attended to, are the ones you’ll forget. The problems that give rise to defining decision lurk under the surface.
+2. **Analysis Paralysis** — Most decisions do not affect the long term outcome, but a few _really_ do. Importance is massively power law distributed. The skill is figuring out which ones matter without the benefit of hindsight. Perhaps more perniciously, often the problems that squeal the loudest to be attended to, are the ones you’ll forget.
 
 ![too busy](../assets/too_busy.png)
 
 # Identifying the Main Thing
 
-The harsh reality of the main thing is that it looks just like any other “important” thing and, additionally, it’s ever-changing. Most things simply don’t matter and what actually matters today may not matter tomorrow. With that in mind, we need some heuristics to begin to identify our main thing.
+The harsh realities of the main thing are that it looks just like any other “important” thing and, it’s constantly changing. Most things simply don’t matter and what actually matters today may not matter tomorrow. With that in mind, we need some heuristics to begin to identify our main thing.
 
-# 1. It’s often related to a customer problem
+## 1. It’s often related to a customer problem
 
 A good place to start is to ask very critically if you are solving a real problem for your customers. Are you really attending to what _they_ want, even if they don’t tell you directly? Or are you building what _you_ want and hoping its close enough to a solution to be acceptable?
 
@@ -48,8 +48,6 @@ Talented people spend a significant portion of their early lives being set succe
 Allowing your focus to be stolen by the hard, rather than the important, is doubly pernicious. Unimportant hard problems, in contrast with simply unimportant problems, take a long time to solve and look (all the way until they are solved) like they must be important as a result.
 
 If you find yourself gravitating towards the hardest problems you face, take a second to ask if solving this problem would actually matter to your eventual outcome.
-
-(todo: there’s maybe something in the idea that hard often equals interesting for ambitious people, which biases them in this direction)
 
 ##  3. It’s often the thing that nags at you
 
