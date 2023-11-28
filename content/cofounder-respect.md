@@ -1,5 +1,5 @@
 ---
-title: "On Respect: Anna Karenina Principle of Co-Founder Relationships"
+title: "On Respect: The Anna Karenina Principle of Founding Relationships"
 tags:
   - seedling
   - startup-guide
@@ -7,7 +7,7 @@ tags:
   - mental-models
 draft: false
 ---
-> Happy co-founding teams are all alike; every unhappy co-founding team is unhappy in its own way. — Anna Karenina principle of co-founder relationships
+> Happy co-founding teams are all alike; every unhappy co-founding team is unhappy in its own way. — Anna Karenina principle of founding relationships
 
 
 Building a company is an incredibly arduous journey. One that will (if you are lucky) span a decade or more with occasional highs and frequent lows. Who you choose to go on that journey with is one of, if not the most, impactful decisions you will make in the life of your business. This article outlines my belief that _mutual respect, above all other things, is the key to selecting the right co-founder_. And that the secret to maintaining a healthy relationship with your co-founder is to ensure that respect is upheld.
