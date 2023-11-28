@@ -7,7 +7,7 @@ tags:
   - sapling
 draft: false
 ---
-Every problem I've ever encountered in programming has been soluble, even if they didn't seem that way initially. As long as they don't fundamentally violate some physical axiom of the universe, they are not only soluble, they're soluble for you. However mindset, while important, is at most half the battle.
+Every problem I've ever encountered in programming has been soluble, even if they didn't seem that way initially. As long as the problem doesn't fundamentally violate some physical axiom of the universe, they are not only soluble, they're soluble for you. However mindset, while important, is at most half the battle.
 
 This is a collection of techniques I find helpful for getting unstuck when thinking through hard problems, in programming and elsewhere. 
 
@@ -20,10 +20,18 @@ This is a collection of techniques I find helpful for getting unstuck when think
 	4. This is very often helpful to untangle mental abstractions that are becoming too much to hold in your head comfortably.
 4. **Take the problem to a new space** - think through the problem graphically or pictorially
 	1. In particular - take the problem into discrete state space. What possible states can there be? What determines the transition between them?
-5. **Create a toy example first** - strip away the particulars and find the essence of the hard thing. Solve that, then layer the complexity back on. Very practically, using something like Repl.it or CodeSandbox, to avoid even setting up your own machine.
+5. **Create toy examples** - strip away the particulars and find the essence of the hard thing. Solve that, then layer the complexity back on. Very practically, using something like Repl.it or CodeSandbox, to avoid even setting up your own machine.
 6. **Remove constraints**
 	1. Somewhat like the toy example but rather than removing the redundant detail, remove critical constraints like time or memory complexity. What does the beginner programmer's naive solution look like?
 7. **Avoid the midwit solution**. Try the dumb one.
 	1. Like the naive solution except in this situation purposely seek out the most obvious solution. Ideally the one a layperson might suggest, if asked on the spot.
 8. **Understand and internalise the [[creativity-faucet|Creativity Faucet]]** - sometimes there is a lot of gunk to clear before the water runs clear. Treat everything like a draft, don't get too attached.
+# Other Resources
+
+- [Oblique Strategy Cards (online)](http://stoney.sb.org/eno/oblique.html)
+	- The music (or more generally "creative") world has a nice concept of [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies), co-created by Brian Eno and Peter Schmidt. While not a perfect fit for getting unstuck in programming, many are surprisingly helpful 
+- Books on Creativity and Systems for Thought
+	- [Conceptual Blockbusting](https://www.amazon.co.uk/Conceptual-Blockbusting-Fifth-Guide-Better/dp/1541674049/ref=asc_df_1541674049/?tag=googshopuk-21&linkCode=df0&hvadid=375385640104&hvpos=&hvnetw=g&hvrand=15573525032855380342&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044962&hvtargid=pla-814280789489&psc=1&mcid=f4d0d05d7f873b439e3305c50deec3fe&th=1&psc=1&tag=&adgrpid=76471991906&hvpone=&hvptwo=&hvadid=375385640104&hvpos=&hvnetw=g&hvrand=15573525032855380342&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9044962&hvtargid=pla-814280789489)
+	- [Thinking in Systems](https://www.amazon.co.uk/Thinking-Systems-Primer-Donella-Meadows/dp/1603580557/ref=sr_1_1?crid=1FHPQTTZMZQVI&keywords=thinking+in+systems&qid=1701213142&s=books&sprefix=thinking+in+systems,stripbooks,75&sr=1-1)
+	- [The Creative Act](https://www.amazon.co.uk/Creative-Act-Way-Being/dp/1838858636/ref=sr_1_1?crid=2SWV0P0MTFPQG&keywords=the+creative+act&qid=1701213166&s=books&sprefix=the+creative+act,stripbooks,86&sr=1-1)
 
