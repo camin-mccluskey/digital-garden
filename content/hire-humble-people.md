@@ -45,6 +45,7 @@ The interview is a great place to test for humility in candidates.
    2. **Humble people take progressively more credit when pushed** - This is as much a technique to assess for humility as a counter-signal to find overconfidence. People that have really done the work will be able to tell you every decision made, talk about every tradeoff etc. What often happens when you push a candidate for progressively more detail on previous work is that the most confident will have to back away from earlier claims. The humble will be able to take progressively more credit (explicit or implicitly) because they can continue to talk intelligently about the project right down to individual decisions made.
    3. **Humble people understand the role that luck has played in their achievements** - You want to be hiring A-players. Everyone you hire early on probably has at least one thing that is extraordinarily impressive - they will have be responsible for divisions, or launched businesses of their own while graduating from top universities. Humble candidates will understand that achieving these impressive things is some part good fortune.
    4. **Background reference** - Find people that have worked with them before - ask them about the achievements they claimed where solo vs. collective - you should expect that others will agree on the distribution of credit.
+   5. Humble people are willing to admit to failure and take responsibility for it - https://x.com/Austen/status/1725280682648461649?s=20
 
 # A Word of Caution
 

@@ -18,7 +18,7 @@ cd dEsKToP
 
 ---- 
 
-This presents a problem for developers as the default setting for Git is to respect how the OS handles case sensitivity. This means renaming a file by running something like `mv Mycomponent.tsx Mycomponent.tsx` will not result in any case that is picked up by Git. 
+This presents a problem for developers as the default setting for Git is to respect how the OS handles case sensitivity. This means renaming a file by running something like `mv Mycomponent.tsx MyComponent.tsx` will not result in a change that is picked up by Git. 
 
 To solve this you have 2 options.
 
@@ -41,4 +41,4 @@ If you've gone on a spree of renames, and running `git mv` would now be impracti
 git rm -r --cached . && git add .
 ```
 
-**You may want to run these files separately to ensure you don't commit new files you don't yet want to be tracked.**
+**You may want to run these files separately to ensure you don't commit new files you don't yet want to be tracked (as in, use `filename1 ... fileNameN` rather than `.` in the command above.**
