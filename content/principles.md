@@ -12,7 +12,7 @@ I realise I need to have habits and principles I can rely on. Ones that I alone 
 
 # Principles
 
-1. Work **only** with with people I trust deeply
+1. Work **only** with with people I [[cofounder-respect|trust deeply]]
 2. Celebrate small wins
 3. Be open about the journey 
 4. Build faster by scoping down and focusing only on what really matters (micro-focus)
