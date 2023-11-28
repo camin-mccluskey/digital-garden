@@ -45,7 +45,7 @@ Interestingly, there are many successful examples of partnerships where there is
 > 
 > _”He's become my best friend but through a very circuitous route, through respect and through work.”_
 
-Finally, I want to caution against optimising for affection because it’s very easy to go too far with _mutual_ affection. This would be what Kim Scott would call [“Ruinous Empathy”](https://www.radicalcandor.com/faq/what-is-ruinous-empathy/), where your affection for one another is preventing necessary hard conversations. In contrast, I don’t think you can go far enough with _mutual_ respect (although you can with one-sided respect - which looks like absolute deference and passivity).
+Finally, I want to caution against optimising for affection because it’s very easy to go too far with _mutual_ affection. This is what Kim Scott calls [“Ruinous Empathy”](https://www.radicalcandor.com/faq/what-is-ruinous-empathy/), where your affection for one another is preventing hard but necessary conversations. In contrast, I don’t think you can go far enough with _mutual_ respect (although you can with one-sided respect - which looks like absolute deference and passivity).
 
 ## Don’t work with people because they have complementary skills
 
@@ -96,7 +96,7 @@ Quite simply, people that respect one another want to work harder for each other
 
 You can contrast this with companies that are “like a family”. In a family respect is granted by admission. You respect and work for one another by virtue of who you *are* and one doesn’t need to work to earn that respect. In a sports team respect is granted only because it is *earned* and one must continue to perform to keep that level of respect.
 
-Earning and keeping respect is therefore a mechanism that motivates you co-founder and everyone on the team to consistently perform at their highest level. To go above and beyond their own expectations of themselves for others. Moreover, respect is a long term motivation. You can’t earn respect without continually doing the work or play politics without eventually losing the respect of your colleagues. Startups are ultimately positive sum and positive sum games should _only_ be played with [long-term people](https://nav.al/long-term).
+Earning and keeping respect is therefore a mechanism that motivates your co-founder and everyone on the team to consistently perform at their highest level. To go above and beyond their own expectations of themselves for others. Moreover, respect is a long term motivation. You can’t earn respect without continually doing the work or play politics without eventually losing the respect of your colleagues. Startups are ultimately positive sum and positive sum games should _only_ be played with [long-term people](https://nav.al/long-term).
 
 Finally, mutual respect allows people to be radically candid - to say what they think while giving a damn about the person they’re saying it to. This is incredibly important for high performance and doubly so for startups. You don’t have the luxuries of time or budget so if things are not going to plan you must speak up. You have to feel comfortable critiquing work, demanding higher standards, and delivering news people don’t want to hear. Equally, you have to feel comfortable, even appreciate, being on the receiving end. Respect is the substrate that lets you deliver “bad” news in a way that is constructive.
 
@@ -118,6 +118,6 @@ Bret Taylor (Chairman OpenAI, creator of Google Maps) [talks](https://x.com/Star
 
 # Conclusion
 
-Whether you’re looking for a co-founder, evaluating the health of your relationship with your co-founder or considering the health of your team more broadly. I hope that you consider respect a fundamental attribute to consider and to foster in your relationships.
+Whether you’re looking for a co-founder, evaluating the health of your relationship with your co-founder or considering the health of your team more broadly. I hope that you hold respect as a fundamental attribute to consider and to foster in your relationships.
 
-Finally I want to reiterate, everything above holds only for _mutual_ respect. And because respect is not given, but rather earned; that means modelling the behaviours you want to see, keeping the promise you make and going the extra mile for your team every day.
+Finally I want to reiterate, everything above holds only for _mutual_ respect. And because respect is not given, but earned; that means modelling the behaviours you want to see, keeping the promise you make and going the extra mile for your team every day.
