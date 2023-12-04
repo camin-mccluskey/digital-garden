@@ -4,7 +4,7 @@ tags:
   - seedling
   - startups
   - startup-guide
-draft: false
+draft: true
 ---
 When I wrote about my mental model for ideation - [[ideation-flywheel|The Ideation Flywheel]] - I assumed, as one always must, that people might have some disagreements. 
 
