@@ -24,7 +24,7 @@ function getTemperature() {
 ```
 *`getTemperature` is a stub. We need to come along later and actually implement that part. For now we can say it's going to be some number and move on.*
 
-Programming, much like writing or any cognitively demanding task, is done best while threading the needle between boredom and anxiety. Keeping the present task just hard enough to demand focus while being easy enough to illicit satisfaction[^2]. The parts that are too uncertain or difficult should be stubbed out for the future when it's more clear how they'll fit in the whole. The parts that are too tedious should be stubbed out to be filled in later.
+Programming, much like writing or any cognitively demanding task, is done best while threading the needle between boredom and anxiety. Keeping the present task just hard enough to demand focus while being easy enough to illicit satisfaction[^2]. The parts that are too uncertain or difficult should be stubbed out for the future, when it's more clear how they'll fit in the whole. The parts that are too tedious should be stubbed out to be filled in later.
 
 Becoming a more efficient and skilled programmer means getting good at identifying where and how to stub, but once you're practiced you can use it well beyond code.
 
