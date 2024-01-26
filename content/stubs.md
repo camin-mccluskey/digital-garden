@@ -6,21 +6,21 @@ tags:
   - productivity
 draft: false
 ---
-The the best selling author Ryan Holiday is a prolific writer. He's written 17 books, of which 10 came in an 8 year period. Since 2016 he's mailed out a 500-word email newsletter, The Daily Stoic, to 200,000 subscribers every morning. He's spoken about writing as being all about momentum, a practice in which you never want to get bogged down by small details[^1]. His trick is simple, insert an "X" any time there you're unsure of a detail. This allows you to keep all your focus on the core idea you're trying to convey. The minor stuff - an exact date or the weather on a particular day - can be filled in later.
+The best selling author Ryan Holiday is a prolific writer. He's written 17 books, of which 10 came in an 8 year period. Since 2016 he's mailed out a 500-word email newsletter, The Daily Stoic, to 200,000 subscribers every morning. He's spoken about writing as being all about momentum, a practice in which you never want to get bogged down by small details[^1]. His trick is simple, insert an "X" any time there you're unsure of a detail. This allows you to keep all your focus on the core idea you're trying to convey. The minor stuff - an exact date or the weather on a particular day - can be filled in later.
 
 In programming we call these "X"s [stubs](https://en.wikipedia.org/wiki/Method_stub). Stubs stand in for functionality we haven't developed yet. They temporarily bear the load, letting you progress past the current point of development while remaining focused on the main goal of your program.
 
-```
+```js
 temp = getTemperature()
 if (temp < 12) {
 	print('wear a coat')
 }
-...
+// ... 
 
-
-function getTemperature()
+function getTemperature() {
 	// TODO: actually fetch this value
 	return 11
+}
 ```
 *`getTemperature` is a stub. We need to come along later and actually implement this part. For now we can say it's going to be some number and move on.*
 
@@ -37,7 +37,7 @@ There is a fundamental difference between the writing and code example above. In
 
 In the course of effortful work you'll flip between both. It's also not the case that only type 1 is useful for writing and only type 2 is useful for programming. Web developers use [Lorem Ipsum](https://www.lipsum.com/) to simulate real text while they focus on coding the layout - reducing the boredom of typing or awaiting real copy. Writers use bullet points to feel out the contours of an idea before committing to prose - reducing the anxiety of specifying exact words. Christopher Nolan famously mapped out the plot line for Inception on a sheet of paper while writing the screenplay, JK Rowling mapped the story arcs of each Harry Potter character in a spreadsheet. These are examples of stubs as well as [[unstuck-programming#Model the problem in a different space|modelling the problem in a new space]], which is helpful to get unstuck (where stuck is the end state of anxiety).
 
-// **insert graphic**
+![[../assets/inception_map.png|500]]
 
 ## Stubs all the way up
 
