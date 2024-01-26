@@ -6,7 +6,7 @@ tags:
   - productivity
 draft: false
 ---
-The best selling author Ryan Holiday is a prolific writer. He's written 17 books, of which 10 came in an 8 year period. Since 2016 he's mailed out a 500-word email newsletter, The Daily Stoic, to 200,000 subscribers every morning. He clearly understands how to relentlessly produce compelling work. In his view, writing is all about momentum, a practice in which you never want to get bogged down by small details[^1]. His trick is very simple - insert an "X" any time you're unsure of a detail. This allows you to keep all your focus on the core idea you're trying to convey. The minor stuff - an exact date or the weather on a particular day - can be filled in later.
+The best selling author Ryan Holiday is a prolific writer. With 17 books and a newsletter, *The Daily Stoic*, published daily since 2016; he clearly understands how to relentlessly produce compelling work. In his view, writing is all about momentum, a practice in which you never want to get bogged down by small details[^1]. His trick is very simple - insert an "X" any time you're unsure of a detail. This allows you to keep all your focus on the core idea you're trying to convey. The minor stuff - an exact date or the weather on a particular day - can be filled in later.
 
 In programming we call these "X"s [stubs](https://en.wikipedia.org/wiki/Method_stub). Stubs stand in for functionality we haven't developed yet. They temporarily bear the load, letting you progress past the current point of development while remaining focused on the main goal of your program.
 
