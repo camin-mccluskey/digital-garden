@@ -1,0 +1,54 @@
+---
+title: "Stubs: Guardrails to Flow"
+tags:
+  - sapling
+  - programming
+  - productivity
+draft: true
+---
+# Essay: Stubbing: Guardrails to Flow
+
+The the best selling author Ryan Holiday is a prolific writer. He's written 17 books, of which 10 came in an 8 year period. Since 2016 he's mailed out a 500-word email newsletter, The Daily Stoic, to 200,000 subscribers every morning. He's spoken about writing as being all about momentum, a practice in which you never want to get bogged down by small details[^1]. His trick is simple, insert an "X" any time there you're unsure of a detail. This allows you to keep all your focus on the core idea you're trying to convey. The minor stuff - an exact date or the weather on a particular day - can be filled in later.
+
+In programming we call these "X"s [stubs](https://en.wikipedia.org/wiki/Method_stub). Stubs stand in for functionality we haven't developed yet. They temporarily bear the load, letting you progress past the current point of development while remaining focused on the main goal of your program.
+
+```
+temp = getTemperature()
+if (temp < 12) {
+	print('wear a coat')
+}
+...
+
+
+function getTemperature()
+	// TODO: actually fetch this value
+	return 11
+```
+*`getTemperature` is a stub. We need to come along later and actually implement this part. For now we can say it's going to be some number and move on.*
+
+Programming, much like writing or any cognitively demanding task, is best done while threading the needle between boredom and anxiety. Keeping the present task just hard enough to demand focus while being easy enough to illicit satisfaction[^2]. The parts that are too uncertain, difficult or messy should be stubbed out for the future when it's clear how they'll fit in the whole.
+
+Becoming a more efficient and more skilled programmer is getting good at identifying where and how to stub, but once you're practiced you can use it well beyond code.
+
+## Stubs come in 2 flavours
+
+There is a fundamental difference between the writing and code example above. In the former we're sure of the "how", but we're unsure of the "what". In the latter we're sure of the "what", but we're unsure of the "how".
+
+1. **Boredom Reducing** - sure of how, unsure of what - "I know Ryan Holiday has written many books in a short period, but I don't what the precise number is"
+2. **Anxiety Reducing** - sure of what, unsure of how - "I know what this piece of code should do, but I'm not sure how to do it yet"
+
+In the course of effortful work you'll flip between both. It's also not the case that only type 1 is useful for writing and only type 2 is useful for programming. Web developers use [Lorem Ipsum](https://www.lipsum.com/) to simulate real text while they focus on coding the layout - reducing the boredom of typing or awaiting real copy. Writers use bullet points to feel out the contours of an idea before committing to prose - reducing the anxiety of specifying exact words. Christopher Nolan famously mapped out the plot line for Inception on a sheet of paper while writing the screenplay, JK Rowling mapped the story arcs of each Harry Potter character in a spreadsheet. These are examples of stubs as well as [[unstuck-programming#Model the problem in a different space|modelling the problem in a new space]], which is helpful to get unstuck (where stuck is the end state of anxiety).
+
+// **insert graphic**
+
+## Stubs all the way up
+
+So far we've focused on the individual task level, with stubs as guardrails protecting us from slipping out of the flow state and into boredom or anxiety. Like individuals, organisations thrive when they have positive forward momentum. For that reason stubbing works well as a framework for maintaining velocity in larger projects.
+
+Zygna (the studio behind Farmville & Words with Friends) uses dummy buttons with promotions of new features or games. If > 50% of the target audience clicks, they begin to build the real thing[^3]. They're stubbing everything that doesn't approximate demand because that's the only data point they need to push forward with confidence.
+
+Likewise, an MVP is a stub for "real product" where a 3rd party solution, or manual genie-behind-the-curtain effort is stubbing the complexity of building a real product. Fiverr is a platform to buy stubs for things you can't or won't do, allowing you to leverage capital for momentum.
+
+[^1]: From the excellent video ["2 years of Writing a Book in 30 Minutes"](https://youtu.be/dU7efgGEOgk?t=620)
+[^2]: This is known as the ["flow channel"](https://www.researchgate.net/figure/Csikszentmihalyis-flow-channel-shows-the-relation-between-challenges-and-player-skills_fig1_322207098)
+[^3]: Zynga CEO Mark Pincus on the [Masters of Scale Podcast](https://www.youtube.com/watch?v=ZrqmwHRGm60). Although not mentioned, these buttons are occasionally called "data buttons" or "ghost buttons".

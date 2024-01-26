@@ -21,7 +21,7 @@ I realise this sentiment is quite common. Starting a startup is no longer counte
 
 ![[../assets/num_startups_uk.png|300]]
 
-I don't doubt that some, maybe even most, of these individuals are motivated by status or money rather than nobler ambitions. The thing is, I don't think that matters. [point about it not mattering if you're successful]
+I don't doubt that some, maybe even most, of these individuals are motivated by status or money rather than nobler ambitions. The thing is, I don't think that matters. If you solve a problem for someone and they're willing to pay you for it, who cares why you started out?
 ## Start anyway
 
 Paul Graham famously advises not to worry about creating a company but rather to look for problems and create something useful to solve them. If you succeed, meaning others agree what you've created is useful, creating a company is the next logical step. I don't disagree with this, indeed I start with the exact same advice. 

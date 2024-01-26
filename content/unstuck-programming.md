@@ -11,22 +11,35 @@ Every problem I've ever encountered in programming has been soluble, even if the
 
 This is a collection of techniques I find helpful for getting unstuck when thinking through hard problems, in programming and elsewhere. 
 
-1. **Start with the API**
-2. **Write more** - almost indiscriminately write down everything that comes to mind as you think through the problem. Pause. Edit as if you need to present your problem to someone else
-	1. Don't take any step for granted - walk through the entire plan, start to finish, in detail. Notice the rough edges of your understanding. Move with speed but mark where you're unsure and **revisit** until clarity.
-3. **Language Matters** - try reformulating the terms in which you are internally discussing the problem
-	1. As an example - when passing a callback to a React component I often internally voice that I'm "giving the child component the **opportunity** to call function X with the parameters it chooses". 
-	3. This one is a little harder to describe - hopefully it's clear *enough* to think of examples in your own work.
-	4. This is very often helpful to untangle mental abstractions that are becoming too much to hold in your head comfortably.
-4. **Take the problem to a new space** - think through the problem graphically or pictorially
-	1. In particular - take the problem into discrete state space. What possible states can there be? What determines the transition between them?
-5. **Create toy examples** - strip away the particulars and find the essence of the hard thing. Solve that, then layer the complexity back on. Very practically, using something like Repl.it or CodeSandbox, to avoid even setting up your own machine.
-6. **Remove constraints**
-	1. Somewhat like the toy example but rather than removing the redundant detail, remove critical constraints like time or memory complexity. What does the beginner programmer's naive solution look like?
-7. **Avoid the midwit solution**. Try the dumb one.
-	1. Like the naive solution except in this situation purposely seek out the most obvious solution. Ideally the one a layperson might suggest, if asked on the spot.
-8. **Understand and internalise the [[creativity-faucet|Creativity Faucet]]** - sometimes there is a lot of gunk to clear before the water runs clear. Treat everything like a draft, don't get too attached.
-# Other Resources
+### Start with the API
+What is concrete about the problem and what is an implementation detail? At the simplest level, what are your inputs and outputs? How can you break apart the possible solution steps into concrete steps or phases? [[Writing/Digital-Garden-Content/stubs|Stub]] out implementation details to retain momentum.
+### Write more
+Almost indiscriminately write down everything that comes to mind as you think through the problem. Pause. Edit as if you need to present your problem to someone else.
+
+Don't take any step for granted - walk through the entire plan, start to finish, in detail. Notice the rough edges of your understanding. Move with speed but mark where you're unsure and **revisit** until clarity.
+### Language Matters
+Try reformulating the terms in which you are internally discussing the problem
+
+As an example - when passing a callback to a React component I often internally voice that I'm "giving the child component the **opportunity** to call function X with the parameters it chooses". While this technique is a little harder to describe hopefully it's clear *enough* to think of examples in your own work. I find this strategy especially helpful to untangle mental abstractions that are becoming too much to hold in your head comfortably. By giving several complex elements of the problem or solution a new name you can free up bandwidth to consider more of the problem or solution.
+
+### Model the problem in a different space 
+Think through the problem graphically or pictorially. In particular take the problem into discrete state space. What possible states can there be? What determines the transition between them?
+
+3Blue1Brown is the master of this. Watch any of his videos to understand how the same problem can be viewed through a multitude of lenses.
+
+### Create toy examples
+Strip away the particulars and find the essence of the hard thing. Solve that, then layer the complexity back on. Very practically, using something like Repl.it or CodeSandbox, to avoid even setting up your own machine.
+
+### Remove constraints
+Somewhat like the toy example but rather than removing the redundant detail, remove critical constraints like time or memory complexity. What does the beginner programmer's naive solution look like?
+
+### Avoid the midwit solution (try the dumb one instead)
+Like the naive solution except in this situation purposely seek out the most obvious solution. Ideally the one a layperson might suggest, if asked on the spot.
+
+### Understand and internalise the [[creativity-faucet|Creativity Faucet]]
+Sometimes there is a lot of gunk to clear before the water runs clear. Treat everything like a draft, don't get too attached.
+
+#### Other Resources
 
 - [Oblique Strategy Cards (online)](http://stoney.sb.org/eno/oblique.html)
 	- The music (or more generally "creative") world has a nice concept of [Oblique Strategies](https://en.wikipedia.org/wiki/Oblique_Strategies), co-created by Brian Eno and Peter Schmidt. While not a perfect fit for getting unstuck in programming, many are surprisingly helpful 

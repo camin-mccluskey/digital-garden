@@ -26,7 +26,7 @@ We've spoken about an ownership mindset as a key characteristic of great early s
    1. Owners have a GSD attitude - care less about the credit and more about the work - they don't say "that's not my job", they get on with the biggest tasks at hand. They spend less time angling for credit and more time doing the work.
    2. Owners are Constant Learners with a growth mindset -> humility is accepting that you do not know everything and, instead of shying away from that fact with bravado or false pretence, embracing it head-on as an opportunity to learn and grow. Humble people are naturally curious.
    3. Owners are catalysts (they make the whole team better) -> humble people are not the loudest voice in the room. They want to be part of a team because they understand that going far means going together. This is a powerful non-linear effect where everyone in the team is making everyone else better because the team as a collective is low-ego.
-   4. Owners pass the layover test - they are people you want to spend time with. Being around them gives you motivation without burning you out. Motivation is the scarcest resource in startups so filling the team with people that you enjoy working with is beyond important.
+   4. Owners pass the layover test - they are people you want to spend time with. Being around them gives you motivation without burning you out. Motivation is the scarcest resource in startups so filling the team with people that you enjoy working with is beyond important. Nobody likes spending time with braggarts and show-offs.
    5. Owners are quietly ambitious -> humble people are often quietly ambitious.
 
 # Identifying Humility
