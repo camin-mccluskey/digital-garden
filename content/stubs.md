@@ -1,5 +1,5 @@
 ---
-title: "Stubs: Guardrails to Flow"
+title: "Stubs: Guard rails to flow"
 tags:
   - sapling
   - programming
