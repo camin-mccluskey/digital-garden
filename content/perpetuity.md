@@ -2,8 +2,8 @@
 title: Perpetuity
 draft: true
 tags:
-  - ideas
-  - e/acc
+  - idea
+  - e-acc
   - biotech
   - sapling
 ---

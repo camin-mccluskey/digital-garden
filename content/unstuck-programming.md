@@ -2,7 +2,7 @@
 title: Getting Unstuck
 tags:
   - programming
-  - ideas
+  - idea
   - productivity
   - sapling
 draft: false
@@ -12,7 +12,7 @@ Every problem I've ever encountered in programming has been soluble, even if the
 This is a collection of techniques I find helpful for getting unstuck when thinking through hard problems, in programming and elsewhere. 
 
 ### Start with the API
-What is concrete about the problem and what is an implementation detail? At the simplest level, what are your inputs and outputs? How can you break apart the possible solution steps into concrete steps or phases? [[Writing/Digital-Garden-Content/stubs|Stub]] out implementation details to retain momentum.
+What is concrete about the problem and what is an implementation detail? At the simplest level, what are your inputs and outputs? How can you break apart the possible solution steps into concrete steps or phases? [[04 Outputs/Digital-Garden-Content/stubs|Stub]] out implementation details to retain momentum.
 ### Write more
 Almost indiscriminately write down everything that comes to mind as you think through the problem. Pause. Edit as if you need to present your problem to someone else.
 

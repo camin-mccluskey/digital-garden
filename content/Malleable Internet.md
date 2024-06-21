@@ -2,7 +2,7 @@
 title: Malleable Internet
 draft: 
 tags:
-  - ideas
+  - idea
   - programming
   - webdev
   - seedling

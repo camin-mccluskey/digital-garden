@@ -1,10 +1,13 @@
 ---
 title: The Cult of Done Manifesto
 tags:
-  - ideas
-  - mental-models
+  - idea
+  - mental-model
   - productivity
   - evergreen
+aliases:
+  - Cult of Done
+  - Done Manifesto
 draft: false
 ---
 The Cult of Done Manifesto was written in 2009 by Bre Pettis and Kio Stark. While it came to my attention only recently, it's been a source of inspiration and guidance as I try to build more and share my work more publicly. 

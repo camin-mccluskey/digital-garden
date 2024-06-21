@@ -2,8 +2,8 @@
 title: Keeping the Main Thing the Main Thing
 tags:
   - sapling
-  - ideas
-  - mental-models
+  - idea
+  - mental-model
   - startups
   - startup-guide
 draft: false

@@ -3,7 +3,9 @@ title: Personal User Manual
 tags:
   - evergreen
   - personal
-draft:
+aliases:
+  - Personal User Manual
+draft: false
 ---
 > Welcome my Personal User Manual! If you’d like to create your own check out this [template](https://github.com/camin-mccluskey/Personal-User-Manual-Template).
 

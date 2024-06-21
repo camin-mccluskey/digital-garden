@@ -1,11 +1,11 @@
 ---
 title: The Ideation Flywheel
 tags:
-  - ideas
+  - idea
   - startups
   - startup-guide
   - sapling
-  - mental-models
+  - mental-model
 draft: false
 ---
 The Ideation Flywheel is a mental model to help you think about which startup ideas are worth pursuing and, more importantly, how to improve your ideas by testing without bias.

@@ -2,7 +2,7 @@
 title: Entropy, Programming, and Refactoring a Bloody Filter Component
 tags:
   - programming
-  - react
+  - React
   - productivity
   - sapling
 draft: true

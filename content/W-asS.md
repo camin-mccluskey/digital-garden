@@ -53,7 +53,7 @@ OR, and this is my main point. You could not play the game at all. You could be 
 ==However, I think the opportunity will reside in the legacy companies and domain, mostly untouched by software even. Like cell phones leapfrogging landlines, there are industries that never made the switch to software that perhaps now can.==
 ^ *maybe this is what the essay should be about -- *
 
-![[./assets/cell_phones_africa.jpeg|500]]
+![[cell_phones_africa.jpeg|500]]
 
 In another 20 years we might look back at the following graph and plot 
 

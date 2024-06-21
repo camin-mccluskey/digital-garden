@@ -4,9 +4,9 @@ tags:
   - sapling
   - startups
   - startup-guide
-  - ideas
+  - idea
   - hiring
-  - mental-models
+  - mental-model
 draft: false
 ---
 What are you actually hiring for in a startup? I would argue, ownership mindset, which is a compressed way of saying a "get stuff done" attitude coupled with deep care about the quality of the work and for the customers you serve. This mindset can be incentivised with equity, but only to a point. You want people that **care**, not because of the potential future upside but because it is in their nature to care deeply about the work they do. 

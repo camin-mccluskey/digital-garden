@@ -1,10 +1,12 @@
 ---
 title: Creativity Faucet
 tags:
-  - mental-models
-  - ideas
+  - mental-model
+  - idea
   - productivity
   - evergreen
+aliases:
+  - Creativity Faucet
 draft: false
 ---
 Creative output is like a dirty tap. When you first switch it on, bad water is going to flow out. You 

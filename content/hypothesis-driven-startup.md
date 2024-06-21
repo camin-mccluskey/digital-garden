@@ -2,8 +2,8 @@
 title: The Hypothesis Driven Startup
 tags:
   - sapling
-  - ideas
-  - mental-models
+  - idea
+  - mental-model
   - startups
   - startup-guide
 draft: false

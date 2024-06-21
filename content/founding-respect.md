@@ -4,7 +4,7 @@ tags:
   - seedling
   - startup-guide
   - startups
-  - mental-models
+  - mental-model
 draft: false
 ---
 > Happy founding teams are all alike; every unhappy founding team is unhappy in its own way. — Anna Karenina principle of founding relationships

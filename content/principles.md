@@ -3,7 +3,7 @@ title: Principles & Habits
 tags:
   - evergreen
   - personal
-  - ideas
+  - idea
 draft: false
 ---
 2022/23 was a period of incredible highs and massive lows. Through that period and after a good deal of reflection I realised I was working and living without much of a North Star. I didn't ask enough questions when things were working well and I didn't speak up vocally enough when they weren't. I assumed others knew better than me how to evaluate the trajectory of my own life. 
